@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CODECAMP81</Machine>
+    <WindowsUser>codecamp</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>98f56b3a-9534-4b9a-a34f-3b2c6b5ee1b2</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C7208B6001D19758CAC3847C883358F4752E6359F75060DB3953047764A25729</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>98f56b3a-9534-4b9a-a34f-3b2c6b5ee1b2_1.0.0.0_neutral__qj5ja5pefmqbr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>98f56b3a-9534-4b9a-a34f-3b2c6b5ee1b2_qj5ja5pefmqbr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>98f56b3a-9534-4b9a-a34f-3b2c6b5ee1b2</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=codecamp</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-25T08:13:25.420</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\bin\Debug\TutorialApplication.exe">
+      <PackagePath>TutorialApplication.exe</PackagePath>
+      <Modified>2015-05-25T08:31:10.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-25T07:58:50.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-25T08:16:49.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\bin\Debug\TestPage.xbf">
+      <PackagePath>TestPage.xbf</PackagePath>
+      <Modified>2015-05-25T08:13:25.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\bin\Debug\TutorialApplication.xr.xml">
+      <PackagePath>TutorialApplication.xr.xml</PackagePath>
+      <Modified>2015-05-25T08:16:49.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\codecamp\documents\visual studio 2013\Projects\TutorialApplication\TutorialApplication\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-25T08:13:25.335</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
